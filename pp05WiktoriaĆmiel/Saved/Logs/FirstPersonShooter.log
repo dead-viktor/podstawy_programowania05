@@ -20102,3 +20102,200 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.29-19.06.09:166][661]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.23 sec (total: 7.85 sec)
 [2024.05.29-19.06.09:204][661]AssetCheck: New page: Asset Save: Demo_Scene1
 [2024.05.29-19.06.09:204][661]LogContentValidation: Display: Validating /Script/Engine.World /Game/ModularBuildingSet/Demo_Scene1.Demo_Scene1
+[2024.05.29-19.07.30:087][307]LogViewport: Scene viewport resized to 1521x621, mode Windowed.
+[2024.05.29-19.07.30:143][308]LogViewport: Scene viewport resized to 1521x603, mode Windowed.
+[2024.05.29-19.07.30:189][309]LogViewport: Scene viewport resized to 1521x566, mode Windowed.
+[2024.05.29-19.07.30:234][310]LogViewport: Scene viewport resized to 1521x546, mode Windowed.
+[2024.05.29-19.07.30:487][326]LogViewport: Scene viewport resized to 1521x549, mode Windowed.
+[2024.05.29-19.07.30:542][327]LogViewport: Scene viewport resized to 1521x553, mode Windowed.
+[2024.05.29-19.16.05:718][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.05.29-19.16.05:722][522]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ModularBuildingSet/Demo_Scene1' took 0.020
+[2024.05.29-19.16.05:723][522]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/FPS_Character] ([2] browsable assets)...
+[2024.05.29-19.16.05:838][522]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/FPS_Character.FPS_Character]
+[2024.05.29-19.16.05:838][522]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/FPS_Character]
+[2024.05.29-19.16.05:853][522]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/FPS_Character_Auto0
+[2024.05.29-19.16.05:853][522]LogSavePackage: Moving 'C:/Users/Admin/Documents/000 MY FILES/GITHUB/podstawy_programowania05/pp05WiktoriaĆmiel/Saved/FPS_Character_Auto069D83EF247932B30594112850500E243.tmp' to 'C:/Users/Admin/Documents/000 MY FILES/GITHUB/podstawy_programowania05/pp05WiktoriaĆmiel/Saved/Autosaves/Game/Blueprints/FPS_Character_Auto0.uasset'
+[2024.05.29-19.16.05:854][522]LogFileHelpers: Auto-saving content packages took 0.131
+[2024.05.29-19.18.46:524][ 78]BlueprintLog: New page: Compile FPS_Character
+[2024.05.29-19.18.46:596][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.05.29-19.18.49:983][266]BlueprintLog: New page: Compile FPS_Character
+[2024.05.29-19.18.50:044][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.05.29-19.18.52:294][392]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.29-19.18.52:301][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.29-19.18.52:301][392]PIE: New page: PIE session: Demo_Scene1 (29 May 2024, 23:18:52)
+[2024.05.29-19.18.52:301][392]LogPlayLevel: Display: Creating online subsystem for client :Context_42
+[2024.05.29-19.18.52:304][392]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.05.29-19.18.52:363][393]LogPlayLevel: Creating play world package: /Game/ModularBuildingSet/UEDPIE_0_Demo_Scene1
+[2024.05.29-19.18.53:178][393]LogPlayLevel: PIE: StaticDuplicateObject took: (0.814454s)
+[2024.05.29-19.18.53:178][393]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularBuildingSet/Demo_Scene1.Demo_Scene1 to /Game/ModularBuildingSet/UEDPIE_0_Demo_Scene1.Demo_Scene1 (0.814502s)
+[2024.05.29-19.18.53:196][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.05.29-19.18.53:198][393]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.29-19.18.53:198][393]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.29-19.18.53:198][393]LogAIModule: Creating AISystem for world Demo_Scene1
+[2024.05.29-19.18.53:200][393]LogPlayLevel: PIE: World Init took: (0.002583s)
+[2024.05.29-19.18.53:201][393]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.05.29-19.18.53:201][393]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.29-19.18.53:201][393]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.29-19.18.53:201][393]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.29-19.18.53:201][393]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.29-19.18.53:201][393]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.29-19.18.53:201][393]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.29-19.18.53:201][393]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.29-19.18.53:201][393]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.29-19.18.53:202][393]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.29-19.18.53:202][393]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.29-19.18.53:202][393]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.29-19.18.53:204][393]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.29-19.18.53:249][393]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek High Definition Audio)
+[2024.05.29-19.18.53:249][393]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.29-19.18.53:249][393]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.29-19.18.53:249][393]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.29-19.18.53:250][393]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.05.29-19.18.53:250][393]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.05.29-19.18.53:252][393]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.05.29-19.18.53:252][393]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.05.29-19.18.53:252][393]LogInit: FAudioDevice initialized with ID 23.
+[2024.05.29-19.18.53:252][393]LogAudio: Display: Audio Device (ID: 23) registered with world 'Demo_Scene1'.
+[2024.05.29-19.18.53:252][393]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.05.29-19.18.53:255][393]LogLoad: Game class is 'GameModeBase'
+[2024.05.29-19.18.53:644][393]LogWorld: Bringing World /Game/ModularBuildingSet/UEDPIE_0_Demo_Scene1.Demo_Scene1 up for play (max tick rate 0) at 2024.05.29-21.18.53
+[2024.05.29-19.18.53:649][393]LogWorld: Bringing up level for play took: 0.393406
+[2024.05.29-19.18.53:658][393]PIE: Server logged in
+[2024.05.29-19.18.53:659][393]PIE: Play in editor total start time 1.357 seconds.
+[2024.05.29-19.18.53:954][394]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.074274 > MaxSimulationTimeStep (0.050) for 'FPS_Character_C_1', movement 'Walking'
+[2024.05.29-19.19.20:329][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.29-19.19.20:329][958]LogWorld: BeginTearingDown for /Game/ModularBuildingSet/UEDPIE_0_Demo_Scene1
+[2024.05.29-19.19.20:334][958]LogWorld: UWorld::CleanupWorld for Demo_Scene1, bSessionEnded=true, bCleanupResources=true
+[2024.05.29-19.19.20:389][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.29-19.19.20:398][958]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.29-19.19.20:412][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.29-19.19.20:473][958]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.29-19.19.20:474][958]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.05.29-19.19.20:474][958]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.05.29-19.19.20:476][958]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.05.29-19.19.20:480][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.29-19.19.20:555][958]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2024.05.29-19.19.20:664][959]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.05.29-19.22.57:903][ 87]LogTexture: Display: Building textures: /Game/ParagonLtBelica/FX/Textures/Sparks/T_SparksPhoto.T_SparksPhoto (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2024.05.29-19.22.58:014][ 89]LogTexture: Display: Building textures: /Game/ParagonLtBelica/FX/Materials/MaterialFunctions/Textures/Noise/T_AtmosphericCloudNoise01.T_AtmosphericCloudNoise01 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.29-19.22.58:107][ 91]LogTexture: Display: Building textures: /Game/ParagonLtBelica/FX/Textures/Smoke/T_dust_burst_01.T_dust_burst_01 (TFO_AutoDXT, 2048x4096 x1x1x1) (Required Memory Estimate: 576.062468 MB), EncodeSpeed: Fast
+[2024.05.29-19.22.58:164][ 94]LogTexture: Display: Building textures: /Game/ParagonLtBelica/FX/Textures/Sparks/T_Spark_Soft.T_Spark_Soft (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.05.29-19.22.58:230][ 96]LogTexture: Display: Building textures: /Game/ParagonLtBelica/FX/Textures/Sparks/T_SparkSingle.T_SparkSingle (TFO_AutoDXT, 128x1024 x1x1x1) (Required Memory Estimate: 20.72909 MB), EncodeSpeed: Fast
+[2024.05.29-19.22.58:236][ 97]LogTexture: Display: Building textures: /Game/ParagonLtBelica/FX/Textures/Debris/T_Debris.T_Debris (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2024.05.29-19.22.58:310][100]LogTexture: Display: Building textures: /Game/ParagonLtBelica/FX/Textures/Smoke/T_WispySmoke_V2_NRM.T_WispySmoke_V2_NRM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.29-19.22.58:334][101]LogTexture: Display: Building textures: /Game/ParagonLtBelica/FX/Textures/Debris/T_Debris_Blur.T_Debris_Blur (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2024.05.29-19.22.58:336][101]LogTexture: Display: Building textures: /Game/ParagonLtBelica/FX/Textures/Debris/T_Debris_Blur_A.T_Debris_Blur_A (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.05.29-19.22.58:384][102]LogTexture: Display: Building textures: /Game/ParagonLtBelica/FX/Particles/Belica/Abilities/Primary/FX/P_BelicaHitWorld.P_BelicaHitWorld:ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 29.89575 MB), EncodeSpeed: Fast
+[2024.05.29-19.22.58:418][102]LogTexture: Display: Building textures: /Game/ParagonLtBelica/FX/Textures/Smoke/T_WispySmoke_V2_OCC+Alpha.T_WispySmoke_V2_OCC+Alpha (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.29-19.23.00:414][211]BlueprintLog: New page: Compile FPS_Character
+[2024.05.29-19.23.00:480][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.05.29-19.23.03:095][358]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.29-19.23.03:102][358]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.29-19.23.03:102][358]PIE: New page: PIE session: Demo_Scene1 (29 May 2024, 23:23:03)
+[2024.05.29-19.23.03:102][358]LogPlayLevel: Display: Creating online subsystem for client :Context_43
+[2024.05.29-19.23.03:105][358]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2024.05.29-19.23.03:153][359]LogPlayLevel: Creating play world package: /Game/ModularBuildingSet/UEDPIE_0_Demo_Scene1
+[2024.05.29-19.23.03:942][359]LogPlayLevel: PIE: StaticDuplicateObject took: (0.789137s)
+[2024.05.29-19.23.03:942][359]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularBuildingSet/Demo_Scene1.Demo_Scene1 to /Game/ModularBuildingSet/UEDPIE_0_Demo_Scene1.Demo_Scene1 (0.789182s)
+[2024.05.29-19.23.03:960][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.05.29-19.23.03:962][359]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.29-19.23.03:962][359]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.29-19.23.03:962][359]LogAIModule: Creating AISystem for world Demo_Scene1
+[2024.05.29-19.23.03:964][359]LogPlayLevel: PIE: World Init took: (0.002510s)
+[2024.05.29-19.23.03:965][359]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.05.29-19.23.03:965][359]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.29-19.23.03:965][359]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.29-19.23.03:965][359]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.29-19.23.03:965][359]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.29-19.23.03:965][359]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.29-19.23.03:965][359]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.29-19.23.03:965][359]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.29-19.23.03:965][359]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.29-19.23.03:966][359]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.29-19.23.03:966][359]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.29-19.23.03:966][359]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.29-19.23.03:968][359]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.29-19.23.04:016][359]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek High Definition Audio)
+[2024.05.29-19.23.04:016][359]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.29-19.23.04:016][359]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.29-19.23.04:016][359]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.29-19.23.04:017][359]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.05.29-19.23.04:017][359]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.05.29-19.23.04:019][359]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.05.29-19.23.04:019][359]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.05.29-19.23.04:019][359]LogInit: FAudioDevice initialized with ID 24.
+[2024.05.29-19.23.04:019][359]LogAudio: Display: Audio Device (ID: 24) registered with world 'Demo_Scene1'.
+[2024.05.29-19.23.04:019][359]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2024.05.29-19.23.04:022][359]LogLoad: Game class is 'GameModeBase'
+[2024.05.29-19.23.04:377][359]LogWorld: Bringing World /Game/ModularBuildingSet/UEDPIE_0_Demo_Scene1.Demo_Scene1 up for play (max tick rate 0) at 2024.05.29-21.23.04
+[2024.05.29-19.23.04:381][359]LogWorld: Bringing up level for play took: 0.358566
+[2024.05.29-19.23.04:390][359]PIE: Server logged in
+[2024.05.29-19.23.04:390][359]PIE: Play in editor total start time 1.289 seconds.
+[2024.05.29-19.23.04:618][360]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.062604 > MaxSimulationTimeStep (0.050) for 'FPS_Character_C_1', movement 'Walking'
+[2024.05.29-19.23.05:690][405]LogShaderCompilers: Display: ================================================
+[2024.05.29-19.23.05:690][405]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.29-19.23.05:690][405]LogShaderCompilers: Display: Total job queries 523, among them cache hits 237 (45.32%)
+[2024.05.29-19.23.05:690][405]LogShaderCompilers: Display: Tracking 275 distinct input hashes that result in 152 distinct outputs (55.27%)
+[2024.05.29-19.23.05:690][405]LogShaderCompilers: Display: RAM used: 6.50 MiB of 819.20 MiB budget. Usage: 0.79%
+[2024.05.29-19.23.05:690][405]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.29-19.23.05:690][405]LogShaderCompilers: Display: Shaders Compiled: 28
+[2024.05.29-19.23.05:690][405]LogShaderCompilers: Display: Jobs assigned 36, completed 28 (77.78%)
+[2024.05.29-19.23.05:690][405]LogShaderCompilers: Display: Average time worker was idle: 1190.36 s
+[2024.05.29-19.23.05:690][405]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.45 s
+[2024.05.29-19.23.05:690][405]LogShaderCompilers: Display: Job execution time: average 0.73 s, max 3.07 s
+[2024.05.29-19.23.05:690][405]LogShaderCompilers: Display: Job life time (pending + execution): average 0.80 s, max 3.14
+[2024.05.29-19.23.05:690][405]LogShaderCompilers: Display: Shader code size: average 48.435 KiB, min 4.465 KiB, max 75.816 KiB
+[2024.05.29-19.23.05:690][405]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.28 s
+[2024.05.29-19.23.05:690][405]LogShaderCompilers: Display: Jobs were issued in 36 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.29-19.23.05:690][405]LogShaderCompilers: Display: Average processing rate: 3.85 jobs/sec
+[2024.05.29-19.23.05:690][405]LogShaderCompilers: Display: Total thread time: 8.041 s
+[2024.05.29-19.23.05:690][405]LogShaderCompilers: Display: Total thread preprocess time: 1.288 s
+[2024.05.29-19.23.05:690][405]LogShaderCompilers: Display: Percentage time preprocessing: 16.02%
+[2024.05.29-19.23.05:690][405]LogShaderCompilers: Display: Effective parallelization: 1.10 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.29-19.23.05:690][405]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.29-19.23.05:690][405]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    8 times, average 0.34 sec, max 0.36 sec, min 0.30 sec)
+[2024.05.29-19.23.05:690][405]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    7 times, average 0.33 sec, max 0.40 sec, min 0.25 sec)
+[2024.05.29-19.23.05:690][405]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.30 sec, max 0.32 sec, min 0.27 sec)
+[2024.05.29-19.23.05:690][405]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 0.28 sec, max 0.32 sec, min 0.25 sec)
+[2024.05.29-19.23.05:690][405]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2024.05.29-19.23.05:690][405]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.29-19.23.05:690][405]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 33.46% of total time (compiled    8 times, average 0.34 sec, max 0.36 sec, min 0.30 sec)
+[2024.05.29-19.23.05:690][405]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 28.92% of total time (compiled    7 times, average 0.33 sec, max 0.40 sec, min 0.25 sec)
+[2024.05.29-19.23.05:690][405]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.69% of total time (compiled    4 times, average 0.30 sec, max 0.32 sec, min 0.27 sec)
+[2024.05.29-19.23.05:690][405]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.56% of total time (compiled    3 times, average 0.28 sec, max 0.32 sec, min 0.25 sec)
+[2024.05.29-19.23.05:690][405]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.50% of total time (compiled    3 times, average 0.15 sec, max 0.18 sec, min 0.13 sec)
+[2024.05.29-19.23.05:690][405]LogShaderCompilers: Display: ================================================
+[2024.05.29-19.23.06:882][458]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	PlayerAnimationBlueprint_C /Engine/Transient.World_8:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimationBlueprint_C_245
+	Function /Game/Animations/PlayerAnimationBlueprint.PlayerAnimationBlueprint_C:ExecuteUbergraph_PlayerAnimationBlueprint:00AB
+[2024.05.29-19.23.23:328][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.29-19.23.23:328][442]LogWorld: BeginTearingDown for /Game/ModularBuildingSet/UEDPIE_0_Demo_Scene1
+[2024.05.29-19.23.23:332][442]LogWorld: UWorld::CleanupWorld for Demo_Scene1, bSessionEnded=true, bCleanupResources=true
+[2024.05.29-19.23.23:388][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.29-19.23.23:393][442]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.29-19.23.23:408][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.29-19.23.23:464][442]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.29-19.23.23:466][442]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2024.05.29-19.23.23:466][442]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.05.29-19.23.23:468][442]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.05.29-19.23.23:474][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.29-19.23.23:552][442]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2024.05.29-19.23.23:667][443]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2024.05.29-19.26.39:036][337]BlueprintLog: New page: Compile FPS_Character
+[2024.05.29-19.26.39:101][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.05.29-19.27.03:623][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.05.29-19.27.03:627][472]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ModularBuildingSet/Demo_Scene1' took 0.022
+[2024.05.29-19.27.03:628][472]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/FPS_Character] ([2] browsable assets)...
+[2024.05.29-19.27.03:750][472]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/FPS_Character.FPS_Character]
+[2024.05.29-19.27.03:750][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/FPS_Character]
+[2024.05.29-19.27.03:764][472]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/FPS_Character_Auto1
+[2024.05.29-19.27.03:764][472]LogSavePackage: Moving 'C:/Users/Admin/Documents/000 MY FILES/GITHUB/podstawy_programowania05/pp05WiktoriaĆmiel/Saved/FPS_Character_Auto1252801C44D91A1B8D4242FB1967B3D4B.tmp' to 'C:/Users/Admin/Documents/000 MY FILES/GITHUB/podstawy_programowania05/pp05WiktoriaĆmiel/Saved/Autosaves/Game/Blueprints/FPS_Character_Auto1.uasset'
+[2024.05.29-19.27.03:764][472]LogFileHelpers: Auto-saving content packages took 0.142
+[2024.05.29-19.27.45:590][634]BlueprintLog: New page: Compile FPS_Character
+[2024.05.29-19.27.45:656][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.05.29-19.27.47:277][709]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.29-19.27.47:396][709]LogSavePackage: Moving output files for package: /Game/Blueprints/FPS_Character
+[2024.05.29-19.27.47:397][709]LogSavePackage: Moving 'C:/Users/Admin/Documents/000 MY FILES/GITHUB/podstawy_programowania05/pp05WiktoriaĆmiel/Saved/FPS_CharacterE66972ED41794B96F614E28921F381CA.tmp' to 'C:/Users/Admin/Documents/000 MY FILES/GITHUB/podstawy_programowania05/pp05WiktoriaĆmiel/Content/Blueprints/FPS_Character.uasset'
+[2024.05.29-19.27.47:404][709]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 7.98 sec)
+[2024.05.29-19.27.47:405][709]AssetCheck: New page: Asset Save: FPS_Character
+[2024.05.29-19.27.47:405][709]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/FPS_Character.FPS_Character
